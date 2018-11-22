@@ -1,0 +1,9 @@
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\bin\Debug\netstandard2.0\Platypus.deps.json
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\bin\Debug\netstandard2.0\Platypus.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\bin\Debug\netstandard2.0\Platypus.pdb
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\obj\Debug\netstandard2.0\Platypus.csprojAssemblyReference.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\obj\Debug\netstandard2.0\Platypus.csproj.CoreCompileInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\obj\Debug\netstandard2.0\Platypus.AssemblyInfoInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\obj\Debug\netstandard2.0\Platypus.AssemblyInfo.cs
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\obj\Debug\netstandard2.0\Platypus.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus\obj\Debug\netstandard2.0\Platypus.pdb

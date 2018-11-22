@@ -1,0 +1,9 @@
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\bin\Debug\netstandard2.0\Platypus.Users.Abstractions.deps.json
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\bin\Debug\netstandard2.0\Platypus.Users.Abstractions.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\bin\Debug\netstandard2.0\Platypus.Users.Abstractions.pdb
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\obj\Debug\netstandard2.0\Platypus.Users.Abstractions.csprojAssemblyReference.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\obj\Debug\netstandard2.0\Platypus.Users.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\obj\Debug\netstandard2.0\Platypus.Users.Abstractions.AssemblyInfoInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\obj\Debug\netstandard2.0\Platypus.Users.Abstractions.AssemblyInfo.cs
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\obj\Debug\netstandard2.0\Platypus.Users.Abstractions.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Core\Platypus.Users.Abstractions\obj\Debug\netstandard2.0\Platypus.Users.Abstractions.pdb

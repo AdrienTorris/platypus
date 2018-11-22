@@ -1,0 +1,8 @@
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\bin\Debug\netstandard2.0\Platypus.Mvc.Core.deps.json
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\bin\Debug\netstandard2.0\Platypus.Mvc.Core.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\bin\Debug\netstandard2.0\Platypus.Mvc.Core.pdb
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\obj\Debug\netstandard2.0\Platypus.Mvc.Core.csproj.CoreCompileInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\obj\Debug\netstandard2.0\Platypus.Mvc.Core.AssemblyInfoInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\obj\Debug\netstandard2.0\Platypus.Mvc.Core.AssemblyInfo.cs
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\obj\Debug\netstandard2.0\Platypus.Mvc.Core.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Frameworks\Platypus.Mvc.Core\obj\Debug\netstandard2.0\Platypus.Mvc.Core.pdb
