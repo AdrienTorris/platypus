@@ -1,0 +1,12 @@
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\bin\Debug\netstandard2.0\Platypus.Module.Targets.deps.json
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\bin\Debug\netstandard2.0\Platypus.Module.Targets.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\bin\Debug\netstandard2.0\Platypus.Module.Targets.pdb
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\bin\Debug\netstandard2.0\Platypus.Mvc.Core.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\bin\Debug\netstandard2.0\Platypus.Mvc.Core.pdb
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.csprojAssemblyReference.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.csproj.CoreCompileInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.AssemblyInfoInputs.cache
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.AssemblyInfo.cs
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.csproj.CopyComplete
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.dll
+C:\Users\AdrienTorris\source\repos\Platypus\src\Targets\Platypus.Module.Targets\obj\Debug\netstandard2.0\Platypus.Module.Targets.pdb
